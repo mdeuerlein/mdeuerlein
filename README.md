@@ -1,23 +1,14 @@
 
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=Markus%20Deuerlein&fontColor=F0F6FC&fontSize=44&fontAlignY=38&desc=Digital%20systems%20%7C%20Web%20development%20%7C%20AI%20workflows&descAlignY=60&animation=fadeIn"
-    alt="Markus Deuerlein - Digital systems, web development and AI workflows"
-  />
+  <sub>
+    Building digital tools before "digital transformation" had a budget.
+  </sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mdeuerlein">
-    <img src="https://img.shields.io/badge/GitHub-mdeuerlein-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub mdeuerlein" />
-  </a>
-  <a href="https://www.entidia.de">
-    <img src="https://img.shields.io/badge/Web-entidia.de-1F6FEB?style=for-the-badge&logo=safari&logoColor=white" alt="Website entidia.de" />
-  </a>
-  <a href="mailto:hello@entidia.de">
-    <img src="https://img.shields.io/badge/Mail-say%20hello-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email contact" />
-  </a>
+  <a href="https://entidia.de"><img src="https://cdn.entidia.net/img/entidia_logo.png" alt="entidia"></a>
 </p>
+
 
 ---
 
@@ -144,12 +135,4 @@ flowchart LR
 
 ---
 
-<p align="center">
-  <sub>
-    Building digital tools before "digital transformation" had a budget.
-  </sub>
-</p>
 
-<p align="center">
-  <a href="https://entidia.de"><img src="https://cdn.entidia.net/img/entidia_logo.png" alt="entidia"></a>
-</p>
