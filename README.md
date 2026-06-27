@@ -1,17 +1,155 @@
-<h2 align="center">Hi 👋 there</h2>
-<h3 align="center"></h3>
-<h4 align="center">Based in Nuremberg (Germany)<br> Creating Web Solutions since 1997 </h4>
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=Markus%20Deuerlein&fontColor=F0F6FC&fontSize=44&fontAlignY=38&desc=Digital%20systems%20%7C%20Web%20development%20%7C%20AI%20workflows&descAlignY=60&animation=fadeIn"
+    alt="Markus Deuerlein - Digital systems, web development and AI workflows"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdeuerlein">
+    <img src="https://img.shields.io/badge/GitHub-mdeuerlein-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub mdeuerlein" />
+  </a>
+  <a href="https://www.entidia.de">
+    <img src="https://img.shields.io/badge/Web-entidia.de-1F6FEB?style=for-the-badge&logo=safari&logoColor=white" alt="Website entidia.de" />
+  </a>
+  <a href="mailto:hello@entidia.de">
+    <img src="https://img.shields.io/badge/Mail-say%20hello-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email contact" />
+  </a>
+</p>
+
+---
+
+## Hey, I'm Markus
+
+I build pragmatic digital tools for people and companies who want software to make work lighter, clearer and more useful.
+
+My sweet spot is somewhere between **web development**, **process design**, **automation**, **AI workflows** and the occasionally stubborn real-world system that needs to behave nicely before anyone can go home.
+
+```txt
+Focus        Web apps, CRM systems, automation, AI-assisted workflows
+Stack        Whatever best suits the project’s objective
+Thinking     Useful first. Elegant where it matters. Maintainable always.
+Base         Nuremberg, Germany
+```
+
+---
+
+## Main areas in which I work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Digital Products</h3>
+      <p>
+        Custom applications, processes, workflows, platforms, and tools that fit the way teams actually work.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>AI & Automation</h3>
+      <p>
+        Agentic workflows, AI-assisted development, multi-agent-setups and
+        practical automation for everyday business processes.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Web & Infrastructure</h3>
+      <p>
+        Web applications, APIs, deployment pipelines, self-hosted services and
+        the quiet server details that keep data safe and projects running.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Strategy & Consulting</h3>
+      <p>
+        Translating ideas, requirements and messy processes into clear technical
+        concepts that teams can build on.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current Playground
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=ffffff" alt="anthropic" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=ffffff" alt="claude" />
+  <img src="https://img.shields.io/badge/Ubiquiti-0D1117?style=flat-square&logo=ubiquiti&logoColor=ffffff" alt="ubiquiti" />
+  <img src="https://img.shields.io/badge/Markdown-0D1117?style=flat-square&logo=markdown&logoColor=ffffff" alt="markdown" />
+  <img src="https://img.shields.io/badge/Perplexity-0D1117?style=flat-square&logo=perplexity&logoColor=ffffff" alt="perplexity" />
+  <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=GoogleGemini&logoColor=ffffff" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Proxmox-0D1117?style=flat-square&logo=proxmox&logoColor=ffffff" alt="proxmox" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=ffffff" alt="Linux" />
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=ffffff" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/PioneerDJ-0D1117?style=flat-square&logo=pioneerdj&logoColor=ffffff" alt="pioneerdj" />
+  <img src="https://img.shields.io/badge/Home_Assistant-0D1117?style=flat-square&logo=homeassistant&logoColor=ffffff" alt="Home Assistant" />
+</p>
+
+```mermaid
+flowchart LR
+  Idea["Idea"] --> Shape["Concept"]
+  Shape --> Build["Build"]
+  Build --> Automate["Automate"]
+  Automate --> Improve["Improve"]
+```
+
+---
+
+## Selected Repositories
+
+<!-- Replace these cards with the repositories you want to feature most. -->
+
+<p align="center">
+  <a href="https://github.com/mdeuerlein/homeassistant-icloud-fix">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mdeuerlein&repo=homeassistant-icloud-fix&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6"
+      alt="Pinned repository: homeassistant-icloud-fix"
+    />
+  </a>
+</p>
+
+---
+
+## How I Like To Build
+
+> Small enough to understand. Useful enough to matter. Stable enough to trust.
+
+- I prefer solid foundations and sharp user-facing details.
+- I like systems that explain themselves through naming, structure and usability.
+- I enjoy turning fuzzy business problems into reliable solutions.
+- I use AI as a sparring partner, code assistant and workflow amplifier.
+
+---
+
+## GitHub Pulse
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mdeuerlein&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com?user=mdeuerlein&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    Building digital tools before "digital transformation" had a budget.
+  </sub>
+</p>
 
 <p align="center">
   <a href="https://entidia.de"><img src="https://cdn.entidia.net/img/entidia_logo.png" alt="entidia"></a>
 </p>
-<p align="center">
-  <a href="https://www.x.com/mdeuerlein"><img src="https://img.shields.io/badge/@mdeuerlein-gray?style=for-the-badge&logo=x&logoColor=white" alt="mdeuerlein@linkedin"></a>
-  <a href="https://www.stackoverflow.com/users/3290233/"><img src="https://img.shields.io/badge/StackOverflow-f58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="mdeuerlein@linkedin"></a>
-  <a href="https://www.linkedin.com/in/mdeuerlein"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="mdeuerlein@linkedin"></a>
-</p>
-
-<p align="center">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a> <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-</p>
-
